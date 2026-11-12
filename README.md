@@ -154,7 +154,7 @@ Its examples do not guarantee that `requests` ships in every instance.
 No GitHub Actions workflow is included.
 
 See [API documentation](https://faxforagents.com/docs/api/) and [MCP documentation](https://faxforagents.com/docs/mcp/) for the wider service.
-The hosted MCP server is separate from this REST wrapper and has 15 tools.
+The hosted MCP server is separate from this REST wrapper and has 17 tools.
 
 ## Licence and support
 
